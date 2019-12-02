@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  cilium:
+  - apiVersion: v1
+    appVersion: 1.6.90
+    created: "2019-12-02T13:57:13.196837Z"
+    description: Helm chart for Cilium
+    digest: a4b78663671e3f5fd745ad1485a33da8423af4e95eab112be123e2ff83d5ccc5
+    engine: gotpl
+    name: cilium
+    sources:
+    - https://github.com/cilium/cilium
+    tillerVersion: '>=2.7.2-0'
+    urls:
+    - https://form3tech-oss.github.io/cilium/cilium-1.6.90.tgz
+    version: 1.6.90
+generated: "2019-12-02T13:57:13.192069Z"
